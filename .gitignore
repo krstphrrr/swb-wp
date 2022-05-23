@@ -1,0 +1,3 @@
+.env
+backup/db_backup.tar
+backup/web_backup.tar
